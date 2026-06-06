@@ -1,0 +1,6 @@
+{
+  "name": "HZ Chord AI",
+  "description": "100% offline-first music analysis and audio production workstation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
